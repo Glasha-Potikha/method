@@ -6,7 +6,7 @@ public class Main {
     }
 
     public static void task1() {
-        int year = 2124;
+        int year = 1900;
         if (isLeapYear(year)) {
             System.out.println(year + " год — високосный год");
         } else {
